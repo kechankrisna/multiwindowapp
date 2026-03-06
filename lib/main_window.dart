@@ -4,8 +4,7 @@ import 'dart:io' show Platform;
 import 'package:flutter/foundation.dart' show kIsWeb;
 import 'package:flutter/material.dart';
 
-import 'multi_window_manager/multi_window_manager.dart';
-import 'multi_window_manager/sub_display_state.dart';
+import 'package:dualscreen/dualscreen.dart';
 
 class MainApp extends StatelessWidget {
   const MainApp({super.key});

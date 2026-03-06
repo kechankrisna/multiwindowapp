@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-import 'multi_window_manager/sub_display_state.dart';
+import 'package:dualscreen/dualscreen.dart';
 
 /// Dart entry point for the secondary display Flutter engine on Android.
 ///
